@@ -1,0 +1,92 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2020-04-20 16:07+0100\n"
+"PO-Revision-Date: 2020-04-20 16:09+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zgh\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.3\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;_x;_ex;_n;_nx;_n_noop;_nx_noop;"
+"translate_nooped_plural;esc_html;esc_html_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: archive.php:27 index.php:26 search.php:26
+msgid "Read more..."
+msgstr ""
+
+#: archive.php:33 index.php:33 single.php:25
+msgid "Sorry, no posts matched your criteria"
+msgstr ""
+
+#: comments.php:23
+msgid "One comment on &ldquo;&rdquo;"
+msgstr ""
+
+#: comments.php:33
+#, php-format
+msgid "%1$s comment on &ldquo;%2$s&rdquo;"
+msgstr ""
+
+#: comments.php:58
+msgid "Comments are closed for this post"
+msgstr ""
+
+#: front-page.php:18
+msgid "Spa Facilities"
+msgstr "adissahal Spa"
+
+#: functions.php:24
+msgid "Main header menu"
+msgstr ""
+
+#: functions.php:25
+msgid "Footer Menu menu"
+msgstr ""
+
+#: functions.php:63
+msgid "TRANQUIL SPA OFFICIAL BLOG"
+msgstr ""
+
+#: functions.php:64
+msgid "<br>"
+msgstr ""
+
+#: functions.php:65
+#, php-format
+msgid "Search results for : %s"
+msgstr ""
+
+#: functions.php:67
+msgid ""
+"Whoops, were a little lost<br>\n"
+"        <em>Let's get back on track</em>"
+msgstr ""
+
+#: functions.php:70
+msgid "FULL RESPONSIVE <br> PREMIUM SPA THEM <br> FOR WORDPRESS"
+msgstr ""
+
+#: functions.php:112
+msgid "Lake 1"
+msgstr ""
+
+#: functions.php:117
+msgid "Lake 2"
+msgstr ""
+
+#: index.php:18
+msgid "Tagged: "
+msgstr ""
+
+#: page.php:12
+msgid "Sorry, no pages matched you criteria"
+msgstr ""
+
+#: search.php:32
+msgid "Sorry, no matches for:<em> "
+msgstr ""
